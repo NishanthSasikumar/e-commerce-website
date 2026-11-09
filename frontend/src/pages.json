@@ -1,0 +1,47 @@
+[
+  {
+    "key": "/",
+    "showInNavbar": true,
+    "label": "Home"
+  },
+  {
+    "key": "/clothes",
+    "showInNavbar": true,
+    "label": "Clothes"
+  },
+  {
+    "key": "/watches",
+    "showInNavbar": true,
+    "label": "Watches"
+  },
+  {
+    "key": "/shoes",
+    "showInNavbar": true,
+    "label": "Shoes"
+  },
+  {
+    "key" : "/users",
+    "showInNavbar": false,
+    "label" : "Users"
+  },
+  {
+    "key" : "/addproduct",
+    "showInNavbar": false,
+    "label" : "AddProduct"
+  },
+  {
+    "key" : "/permission",
+    "showInNavbar": false,
+    "label" : "Permission"
+  },
+  {
+    "key" : "/administration",
+    "showInNavbar": false,
+    "label" : "Administration"
+  },
+  {
+    "key" : "/edit&delete",
+    "showInNavbar": false,
+    "label" : "edit&delete"
+  }
+]
